@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Para começar o ano a todo vapor, precisamos de algo que possa nos auxiliar nas tarefas do dia a dia, aumentando nossa produtividade. Esse é o projeto Habits do #nlwsetup da Rocketseat. Nele foi utilizado HTML, CSS e JavaScript. O intuito é criar um aplicativo onde o usuário consiga marcar e registrar os seus hábitos diários.
 
+- [Visite o projeto online](https://eltonprado.github.io/nlw_Setup)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/aM9odgFUNk3e1IXtm5uoQq/Habits-(e)-(Community)?node-id=75%3A128&t=Pzq6tlhFkbqWSXyn-0>).
